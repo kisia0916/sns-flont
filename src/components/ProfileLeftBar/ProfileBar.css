@@ -1,0 +1,49 @@
+.profileLeft2{
+    /* margin-top: 410px; */
+    padding-left: 40px;
+    margin-top: 30px;
+    flex: 10;
+}
+.profiletext2{
+    display: flex;
+    font-weight:550;
+    margin-bottom: 20px;
+    font-size: 110%;
+
+}
+.profiletext3{
+    display: flex;
+    margin-bottom: 10px;
+}
+.profiletext4{
+    display: flex;
+    margin-bottom: 10px;
+    font-size: 90%;
+    padding-left: 10px;
+    color: rgb(79, 79, 79);
+}
+.profileFriendsIcon{
+    width: 120px;
+    height: 120px;
+    margin-right: 20px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+.profileUserName{
+    margin-left: 20px;
+}
+.profileflients{
+    display: flex;
+}
+.friendIcons3{
+    display: flex;
+}
+.test21{
+    display: flex;
+    width: 100%;
+}
+.test25{
+    display: flex;
+    flex: wrap;
+    overflow-wrap:  break-word;
+}

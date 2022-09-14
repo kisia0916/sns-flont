@@ -1,0 +1,23 @@
+.progileWappar{
+    display: flex;
+}
+
+.profileCenter{
+    display: flex;
+}
+.profileTimeLine{
+    /* margin-top: 400px; */
+}
+.profileTimeLineWapp{
+    /* margin-top: 400px; */
+}
+.profilePhotomain{
+    width: 10px
+}
+.testPhoto{
+    height: 30px;
+    z-index: 0;
+}
+.friendIcons3{
+    display: flex;
+}

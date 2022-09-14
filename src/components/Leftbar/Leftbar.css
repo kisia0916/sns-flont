@@ -1,0 +1,72 @@
+.Leftbar{
+    flex: 2.5;
+    width: 100%;
+    height: 30%;
+}
+.Lightbar2{
+    flex: 0;
+    width: 100%;
+
+}
+
+
+.star{
+    width: 32px;
+    height: 32px;
+    margin-top: 10px;
+}
+.Mess{
+    align-items: center;
+    margin-top: 15px;
+}
+.event{
+    display: flex;
+    margin-left: 10px;
+}
+.promotionPhoto{
+    width: 89%;
+    border-radius: 20px;
+    margin-left: 25px;
+    margin-top: 10px;
+}
+.LightWrapper{
+    margin-left: 10%;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    box-shadow: 3px 6px 21px -5px #777777;
+    border-radius: 10px;
+    width: 85%;
+    height: 400px;
+}
+.LightWrapper2{
+    margin-left: 15%;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    box-shadow: 3px 6px 21px -5px #777777;
+    border-radius: 10px;
+    width: 85%;
+    height: 400px;
+}
+.torend{
+    box-shadow: 3px 6px 21px -5px #777777;
+    border-radius: 10px;
+    width: 85%;
+    height: 200px;
+    margin-left: 15%;
+}
+.torend2{
+    box-shadow: 3px 6px 21px -5px #777777;
+    border-radius: 10px;
+    width: 85%;
+    height: 200px;
+    margin-left: 15%;
+}
+.texts1{
+    padding: 22px;
+    padding-bottom: 10px;
+    font-size: 110%;
+}
+.texts2{
+    padding-left: 30px;
+    padding-bottom: 10px;
+}

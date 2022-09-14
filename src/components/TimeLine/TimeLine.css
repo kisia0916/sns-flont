@@ -1,0 +1,11 @@
+.Timeline{
+    flex: 8;
+    width: 100%;
+    
+}
+
+.timelinewapper{
+    padding: 10px;
+    padding-left: 10;
+    padding-right: 70px;
+}

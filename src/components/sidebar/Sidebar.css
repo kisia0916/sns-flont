@@ -1,0 +1,97 @@
+.sidebar{
+    flex: 1.7 ;
+    margin-left: 20px;
+}
+.List{
+    list-style: none;
+    padding: 0;
+}
+.ListItem{
+    display: flex;
+    margin-left: 30px;
+    margin-bottom: 23px;
+    cursor: pointer;
+    box-shadow: 0px 6px 17px -13px #90a5fb;
+    border-radius: 4px;
+    padding: 10px;
+    width: 250px;
+    height: 30px;
+    background-color:#f8fcff;
+}
+.ListItem1{
+    display: flex;
+    margin-left: 30px;
+    margin-bottom: 23px;
+    margin-top: 45px;
+    padding: 4px,6px;
+    cursor: pointer;
+    box-shadow: 0px 6px 17px -13px #9aacf4;
+    border-radius: 4px;
+    padding: 10px;
+    width: 250px;
+    height: 30px;
+    align-items: center;
+    background-color: #f8fcff;
+}
+.ListItem:hover{
+    box-shadow: 1px 6px 17px -3px #9aacf4;
+    border-radius: 16px;
+}
+.ListItem1:hover{
+    box-shadow: 1px 6px 17px -3px #9aacf4;
+    border-radius: 16px;
+}
+.FriendListHost{
+    list-style: none;
+}
+.userImg{
+    width: 32px;
+    height: 32px;
+}
+.FriendListImg{
+    display: flex;
+}
+.ListIcon{
+    font-size: 30px !important;
+}
+.FriendList{
+    margin-left: 15px;
+    margin-top: 20px;
+}
+.centerLine{
+    width: 270px;
+    margin-left: 25px;
+    padding: 0;
+}
+.ListText{
+    margin-left: 10px;
+}
+.FriendListImg{
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+    cursor: pointer;
+}
+.FriendName{
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.userImg{
+    border-radius: 50%;
+    margin-top: 15px;
+}
+.title_text{
+    padding: 0;
+    margin-left: 20px;
+    color: rgb(118, 117, 117);
+    
+}
+.num{
+    color:  rgb(118, 117, 117);
+}
+.FriendList{
+    padding: 0;
+}
+.sidebarWrapper{
+    margin-left: 18px;
+}

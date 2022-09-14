@@ -1,0 +1,27 @@
+.profileUserText{
+    width: 120px;
+    height: 120px;
+    border-radius: 10px;
+
+}
+.friendLists3{
+    display: flex;
+}
+.profiletext5{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.friendLists2{
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.profileUserText{
+    display: flex;
+    flex-direction: column;
+
+}
+.test22{
+    margin-left: 10px;
+    width: 100%;
+}
