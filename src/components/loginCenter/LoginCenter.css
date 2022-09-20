@@ -1,0 +1,118 @@
+.login_left{
+    flex: 5.5;
+    background-color:rgb(228, 228, 228)rgb(245, 254, 251);
+}
+.login_right{
+    flex: 4.5;
+    background-color:rgb(200, 206, 208)
+    
+}
+.login_wapp{
+    display: flex;
+    height: 100vh;
+}
+
+.loLText{
+    margin-top: 35%;
+    margin-left: 38%;
+}
+.loRText{
+    margin-top: 30px;
+    
+}
+.loginLeftText{
+    font-size: 480%;
+    display: flex;
+    margin-bottom: 5%;
+    font-family: Arial,sans-serif;
+    font-weight: bold;
+    align-items: center;
+    
+}
+.loginLeftText2{
+    font-size: 400%;
+    margin-left: 4%;
+    font-family: Arial,sans-serif;
+    font-weight: bold;
+    font-weight: 550;
+}
+.loginEn{
+    background-color: blue;
+    width: 70%;
+    height: 70%;
+    border-radius: 50%;
+    margin-top: 0;
+}
+.loginMail{
+    display: flex;
+}
+.loginRightText{
+    font-size: 300%;
+    font-family: Arial,sans-serif;
+    font-weight: bold;
+
+}
+.loginRightText{
+    margin-top: 30px;
+    
+}
+.loginMail{
+    margin-top: 45px;
+    font-family: Arial,sans-serif;
+    font-weight: bold;
+    font-size: 150%;
+    font-weight: 400;
+    margin-left: 15px;    
+}
+
+.loRText{
+    margin-top: 17%;
+    margin-left: 8%;
+    height: 80vh;
+}
+.loginMailBox{
+    margin-left: 15px;
+    width: 80%;
+    height: 6%;
+    border: none;
+    margin-top: 15px;
+    border-radius: 17px;
+}
+.loginPass{
+    display: flex;
+    margin-left: 15px;
+    margin-top: 35px;
+    font-size: 150%;
+    font-family: Arial,sans-serif;
+    font-weight: bold;
+    font-weight: 400;
+}
+.loginPassBox{
+    margin-left: 15px;
+    width: 80%;
+    height: 6%;
+    border:none;
+    margin-top: 10px;
+    border-radius: 17px;
+}
+.loginButton{
+    display: flex;
+    margin-left: 70%;
+    font-family: Arial,sans-serif;
+    font-weight: bold;
+    margin-top: 10px;
+    font-size: 110%;
+    background-color: rgb(251, 253, 254);
+    width: 10%;
+    height: 4.5%;
+    border-radius: 10px;
+    margin-top: 8%;
+    justify-content: center;
+    align-items: center;
+}
+.loginLogo{
+    width:35%;
+    height: 40%;
+    background-color: red;
+    border-radius: 50%;   
+}

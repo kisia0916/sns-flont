@@ -2,7 +2,7 @@
     /* margin-top: 410px; */
     padding-left: 40px;
     margin-top: 30px;
-    flex: 10;
+
 }
 .profiletext2{
     display: flex;
@@ -40,7 +40,8 @@
 }
 .test21{
     display: flex;
-    width: 100%;
+    flex-wrap: wrap;
+
 }
 .test25{
     display: flex;
