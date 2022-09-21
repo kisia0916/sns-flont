@@ -1,9 +1,9 @@
 .login_left{
-    flex: 5.5;
+    flex: 5.1;
     background-color:rgb(228, 228, 228)rgb(245, 254, 251);
 }
 .login_right{
-    flex: 4.5;
+    flex: 4.9;
     background-color:rgb(200, 206, 208)
     
 }
@@ -21,12 +21,12 @@
     border-radius: 12%;
     background-color:rgb(200, 206, 208);
     box-shadow: 2px 1px 14px -6px #777777;
-border-radius: 18px;
+border-radius: 20px;
 
 }
 .loRText{
     margin-top: 30px;
-    
+    padding-left: 30px;
 }
 
 .loginLeftText{
